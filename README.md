@@ -1,1 +1,1 @@
-Vueを使ったTerllo風タスク管理webアプリ開発
+Vueを使ったTrello風タスク管理webアプリ開発
